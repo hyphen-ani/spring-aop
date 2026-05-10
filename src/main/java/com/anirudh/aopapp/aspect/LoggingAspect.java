@@ -10,7 +10,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
-@Aspect
+//@Aspect
 @Component
 @Slf4j
 public class LoggingAspect {
